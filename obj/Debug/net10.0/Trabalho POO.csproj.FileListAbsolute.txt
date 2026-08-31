@@ -1,0 +1,5 @@
+C:\Users\livia62048926\OneDrive - SENAC-SC\Documentos\GitHub\Trabalho POO\obj\Debug\net10.0\Trabalho POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia62048926\OneDrive - SENAC-SC\Documentos\GitHub\Trabalho POO\obj\Debug\net10.0\Trabalho POO.AssemblyInfoInputs.cache
+C:\Users\livia62048926\OneDrive - SENAC-SC\Documentos\GitHub\Trabalho POO\obj\Debug\net10.0\Trabalho POO.AssemblyInfo.cs
+C:\Users\livia62048926\OneDrive - SENAC-SC\Documentos\GitHub\Trabalho POO\obj\Debug\net10.0\Trabalho POO.csproj.CoreCompileInputs.cache
+C:\Users\livia62048926\OneDrive - SENAC-SC\Documentos\GitHub\Trabalho POO\obj\Debug\net10.0\Trabalho POO.sourcelink.json
